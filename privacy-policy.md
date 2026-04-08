@@ -1,6 +1,6 @@
 # Privacy Policy for Neo Solitaire
 
-**Last updated: [Insert Today's Date]**
+**Last updated: [08/04/2026]**
 
 
 TheGamingWiz built the Neo Solitaire app as a Free app. This SERVICE is provided by TheGamingWiz at no cost and is intended for use as is.
@@ -28,4 +28,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 **Contact Us**
 
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [Insert your public/developer email address here].
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [thegamingwiz.dev@gmail.com].
